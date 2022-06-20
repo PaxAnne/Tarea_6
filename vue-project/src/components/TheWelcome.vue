@@ -48,6 +48,16 @@ export default {
           descripcion:" Diego lleva años sobornando profesores...",
           img: "https://img.wattpad.com/cover/36500633-200-k356618.jpg",
         },
+        {
+          id: 6,
+          titulo: "El Sacrificio del Fuego",
+          nuevo: true,
+          autor: "InfiniteAll",
+          genero: "Ciencia ficción",
+          descripcion:"Tras la Guerra cada mujer embarazada da a luz a dos hijos: uno es Normal.",
+          img: "https://img.wattpad.com/cover/185036099-200-k535978.jpg",
+         
+        },
       ],
     };
   },
